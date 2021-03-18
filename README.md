@@ -27,3 +27,6 @@ Para a implementação do projeto foram utilizadas técnicas de CRUD com acesso 
 7. Atualize as dependências via Maven Update Project
 8. Inicie um servidor local do projeto dentro do Spring 
 9. Abra o seguinte link em seu navegador de preferência: http://localhost:8080/
+
+## VirusTotal
+Baixe com segurança. Este é o link do scan do comics.zip feito por VirusTotal: https://bit.ly/30QaiIS.
