@@ -18,7 +18,7 @@ Para a implementação do projeto foram utilizadas técnicas de CRUD com acesso 
 * Exibição de HQs
 
 ## Para rodar a aplicação
-1. Baixe o projeto via git clone com a seguinte URL: https://github.com/thejeremias/Comics
+1. Baixe o projeto via git clone com a seguinte URL: https://github.com/thejeremias/Leia-Comics.git
 2. Baixe o JRE e JDK do java em: https://www.oracle.com/br/downloads/#category-java
 3. Baixe a ide do spring em: https://spring.io/tools
 4. Baixe um servidor Mysql de sua preferência e o inicie, que o banco de dados utilizado no projeto será criado automaticamente ao iniciar o projeto
