@@ -1,10 +1,10 @@
 # Leia Comics!
-"Leia Comics!" é uma plataforma on-line em que você ler, publicar e baixar histórias em quadrinhos da Marvel, DC Comics, dentre outras editoras.
+"Leia Comics!" é uma plataforma on-line em que você pode ler, publicar e baixar histórias em quadrinhos da Marvel, DC Comics, dentre outras editoras.
 
 ![image](https://user-images.githubusercontent.com/53026536/111553394-0d533100-8763-11eb-977a-311c765ac579.png)
 
-A aplicação foi criada utilizando a linguagem de programação java junto ao framework Spring com integração ao thymeleaf. No front-end foi utilizado Html, Css, Javacript, Jquery e o framework de estilo Bootstrap.
-Para a implementação do projeto foi utilizado técnicas de crud com acesso a banco de dados, hibernate, modularização, template, download e upload de arquivos, autenticação (login e logout) e autorização.
+A aplicação foi criada utilizando a linguagem de programação Java juntamente com o framework Spring, com integração ao Thymeleaf. No front-end, foi utilizado HTML, CSS, Javacript, jQuery e o framework de estilo Bootstrap.
+Para a implementação do projeto foram utilizadas técnicas de CRUD com acesso a banco de dados, hibernate, modularização, template, download e upload de arquivos, autenticação (login e logout) e autorização.
 
 ## O projeto tem as seguintes funcionalidades
 * Cadastro de usuários e HQs
