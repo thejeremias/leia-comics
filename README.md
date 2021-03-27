@@ -19,7 +19,7 @@ Para a implementação do projeto foram utilizadas técnicas de CRUD com acesso 
 
 ## Para rodar a aplicação
 1. Baixe o projeto via git clone com a seguinte URL: https://github.com/thejeremias/Leia-Comics.git
-2. Descompacte o arquivo "Comics.zip"
+2. Aguarde
 3. Baixe o JRE e JDK do java em: https://www.oracle.com/br/downloads/#category-java
 4. Baixe a ide do spring em: https://spring.io/tools
 5. Baixe um servidor Mysql de sua preferência e o inicie, que o banco de dados utilizado no projeto será criado automaticamente ao iniciar o projeto
@@ -29,5 +29,3 @@ Para a implementação do projeto foram utilizadas técnicas de CRUD com acesso 
 9. Inicie um servidor local do projeto dentro do Spring 
 10. Abra o seguinte link em seu navegador de preferência: http://localhost:8080/
 
-## VirusTotal
-Baixe com segurança. Este é o link do scan do comics.zip feito por VirusTotal: https://bit.ly/30QaiIS.
