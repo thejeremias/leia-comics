@@ -1,5 +1,5 @@
 # Leia Comics!
-"Leia Comics!" é uma plataforma on-line em que você pode ler, publicar e baixar histórias em quadrinhos da Marvel, DC Comics, dentre outras editoras.
+"Leia Comics!" é uma plataforma on-line em que você pode ler, publicar e baixar histórias em quadrinhos da Marvel, DC Comics, dentre outras editoras.         
 
 ![image](https://user-images.githubusercontent.com/53026536/111553394-0d533100-8763-11eb-977a-311c765ac579.png)
 
@@ -17,7 +17,7 @@ Para a implementação do projeto foram utilizadas técnicas de CRUD com acesso 
 * Upload de arquivos
 * Exibição de HQs
 
-## Para rodar a aplicação
+## Para rodar a aplicação   
 1. Baixe o projeto via git clone com a seguinte URL: https://github.com/thejeremias/Leia-Comics.git
 2. Aguarde
 3. Baixe o JRE e JDK do java em: https://www.oracle.com/br/downloads/#category-java
