@@ -6,7 +6,7 @@
 A aplicação foi criada utilizando a linguagem de programação Java juntamente com o framework Spring, com integração ao Thymeleaf. No front-end, foi utilizado HTML, CSS, Javacript, jQuery e o framework de estilo Bootstrap.
 Para a implementação do projeto foram utilizadas técnicas de CRUD com acesso a banco de dados, hibernate, modularização, template, download e upload de arquivos, autenticação (login e logout) e autorização.
 
-## O projeto tem as seguintes funcionalidades
+## Lista de funcionalidades
 * Cadastro de usuários e HQs
 * Busca de usuários e HQs (acesso de administrador)
 * Edição de usuários e HQs (acesso de administrador)
@@ -17,7 +17,7 @@ Para a implementação do projeto foram utilizadas técnicas de CRUD com acesso 
 * Upload de arquivos
 * Exibição de HQs
 
-## Para rodar a aplicação   
+## Como executar a aplicação
 1. Baixe o projeto via git clone com a seguinte URL: https://github.com/thejeremias/Leia-Comics.git
 2. Aguarde
 3. Baixe o JRE e JDK do java em: https://www.oracle.com/br/downloads/#category-java
