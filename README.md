@@ -8,14 +8,14 @@ Para a implementação do projeto foram utilizadas técnicas de CRUD com acesso 
 
 ## Lista de funcionalidades
 * Cadastro de usuários e HQs
-* Busca de usuários e HQs (acesso de administrador)
-* Edição de usuários e HQs (acesso de administrador)
-* Remoção de usuários e HQs (acesso de administrador)
+* Busca de usuários e HQs
+* Edição de usuários e HQs
+* Remoção de usuários e HQs
 * Login
 * Logout
 * Download de arquivos
 * Upload de arquivos
-* Exibição de HQs
+* Visualização de HQs
 
 ## Como executar a aplicação
 1. Baixe o projeto via git clone com a seguinte URL: https://github.com/thejeremias/Leia-Comics.git
