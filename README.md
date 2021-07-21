@@ -29,3 +29,6 @@ Para a implementação do projeto foram utilizadas técnicas de CRUD com acesso 
 9. Inicie um servidor local do projeto dentro do Spring 
 10. Abra o seguinte link em seu navegador de preferência: http://localhost:8080/
 
+## Autores
+| [<img alt="Thejeremias" src="https://github.com/thejeremias.png?size=115" width="115"><br><sub>@Thejeremias</sub>](https://github.com/thejeremias) | [<img alt="Leandro208" src="https://github.com/leandro208.png?size=115" width="115"><br><sub>@Leandro208</sub>](https://github.com/leandro208) | [<img alt="Rubenfilipe07" src="https://github.com/rubenfilipe07.png?size=115" width="115"><br><sub>@Rubenfilipe07</sub>](https://github.com/rubenfilipe07) | 
+| :---: |:---: |:---:
