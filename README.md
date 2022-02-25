@@ -15,6 +15,15 @@ O back-end desta aplicação foi desenvolvido com projetos do ecossistema Spring
 * Visualização de HQs
 * Autenticação e segurança
 
+# Como executar o projeto
+
+```bash
+# clonar repositório
+git clone https://github.com/thejeremias/leia-comics.git
+
+# executar o projeto
+./mvnw spring-boot:run
+```
 
 ## Autores
 | [<img alt="Thejeremias" src="https://github.com/thejeremias.png?size=115" width="115"><br><sub>@Thejeremias</sub>](https://github.com/thejeremias)<p>Atuou no back-end</p>| [<img alt="Leandro208" src="https://github.com/leandro208.png?size=115" width="115"><br><sub>@Leandro208</sub>](https://github.com/leandro208)<p>Atuou no back-end</p>| [<img alt="Rubenfilipe07" src="https://github.com/rubenfilipe07.png?size=115" width="115"><br><sub>@Rubenfilipe07</sub>](https://github.com/rubenfilipe07)<p>Atuou no front-end</p>| 
